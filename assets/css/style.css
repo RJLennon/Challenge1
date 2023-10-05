@@ -17,6 +17,7 @@ p {
     font-size: 16px;
 }
 
+/* Header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +48,7 @@ header ul li {
     margin-left: 25px;
 }
 
+/* Picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,6 +58,7 @@ header ul li {
     background-position: center;
 }
 
+/* Content Section */
 .content {
     width: 75%;
     display: inline-block;
@@ -90,6 +93,7 @@ header ul li {
     margin-left: 25px;
 }
 
+/* Benefits Section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,6 +121,7 @@ header ul li {
     max-width: 150px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
